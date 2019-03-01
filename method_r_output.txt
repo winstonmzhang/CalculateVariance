@@ -1,0 +1,14 @@
+Calculate the variance for Method R MOT Edition 3        Sample Sets on page 8
+WZ stddev of list_A is     0.125775196
+WZ variance of list_A is     0.015819400
+Statistic stddev list_A is     0.132578698
+Population Statistic stddev list_A         is     0.125775196
+Statistic Variance of list_A is             0.017577111
+Population Statistic Variance of list_A is            0.015819400
+...........................................................
+WZ stddev of list_C is 2.5389070483182326
+WZ variance of list_C is 6.446049
+Statistic stddev list_C is 2.676243013380262
+Population Statistic stddev list_C is            2.538907048
+Statistic Variance of list_C is              7.162276667
+Population Statistic Variance of        list_C is     6.446049000
